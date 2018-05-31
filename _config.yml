@@ -8,7 +8,7 @@ subtitle:
 description:
 keywords:
 author: lqqnjust
-language: zh-hans
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -81,3 +81,5 @@ deploy:
   type: git 
   repo: https://github.com/lqqnjust/lqqnjust.github.io
   branch: [master]
+
+
